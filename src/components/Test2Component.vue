@@ -1,5 +1,5 @@
 <template>
-    <div class="test-component">Test me 22</div>
+    <div class="test-component">Test me 22 jjjjjj</div>
   </template>
   
   <script>
